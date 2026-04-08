@@ -1,6 +1,3 @@
-include *.py
-recursive-include auth *.py
-recursive-include utils *.py
-recursive-include exceptions *.py
+recursive-include insta_kendou *
 global-exclude __pycache__
 global-exclude *.pyc
