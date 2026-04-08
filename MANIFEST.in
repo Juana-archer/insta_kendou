@@ -1,0 +1,6 @@
+include *.py
+recursive-include auth *.py
+recursive-include utils *.py
+recursive-include exceptions *.py
+global-exclude __pycache__
+global-exclude *.pyc
